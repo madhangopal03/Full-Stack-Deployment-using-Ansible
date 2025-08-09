@@ -43,3 +43,8 @@ HTML + CSS – user interface
 🎯 Final Result Once deployed, visit your frontend server's public IP in a browser. You’ll see:
 
 🚀 JD's Full Stack App Deployed with Ansible! Everything is working perfectly 🎯 ✅ Frontend | ✅ Backend | ✅ Database
+
+
+ScreenShots:
+![Uploading Screenshot 2025-08-08 233128.png…]()
+
