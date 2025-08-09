@@ -44,6 +44,10 @@ HTML + CSS – user interface
 
 🚀 JD's Full Stack App Deployed with Ansible! Everything is working perfectly 🎯 ✅ Frontend | ✅ Backend | ✅ Database
 
+Trigger this command to view my project in action :
+     "ansible-playbook -i hosts.ini site.yml"
+
+
 
 ScreenShots:
 
